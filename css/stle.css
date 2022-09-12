@@ -29,7 +29,7 @@ li, a, button{
 }
 
 header {
-    width: 1900px;
+    width: 100vw;
     height: 50px;
     background-color: brown;
     display: flex;
